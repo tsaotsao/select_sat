@@ -1,5 +1,5 @@
-#train 
-##just train
+# Train 
+## Just train
 ##### train for selecting satellite
 ```py
 show_train_histroy(train_history,'acc','val_acc')
