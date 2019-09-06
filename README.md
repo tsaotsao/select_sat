@@ -1,3 +1,4 @@
+# ~*_李易達 dicklearning_*~
 # Train 
 ## Train Result
 
@@ -9,4 +10,3 @@ show_train_history(train_history,'loss','val_loss')
 
 ## Using PDOP criterion
 
-~*_李易達 dicklearning_*~
