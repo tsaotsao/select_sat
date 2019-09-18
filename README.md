@@ -8,5 +8,9 @@ show_train_history(train_history,'loss','val_loss')
 ```
 ![不對耶](pictures/acc_and_loss.jpg)
 
-## Using PDOP criterion
+## Using PDOP criterion as Label
+
+DOP value can be describe 
+
+## Train data
 
