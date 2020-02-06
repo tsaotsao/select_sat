@@ -1,4 +1,3 @@
-# ~*_李易達 dicklearning_*~
 # Train 
 ## Train Result
 
